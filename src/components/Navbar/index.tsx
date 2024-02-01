@@ -8,7 +8,6 @@ import BailIcon from "../../asserts/BailIcon";
 import SettingsIcon from "../../asserts/SettingsIcon";
 import LogoutIcon from "../../asserts/LogoutIcon";
 import { useNavigate } from "react-router-dom";
-import { useState } from "react";
 import ZigZagSelected from "../../asserts/ZigZagSelected";
 import PiechartSelected from "../../asserts/PiechartSelected";
 
