@@ -6,7 +6,7 @@ const HomeScreen = () => {
 
   useEffect(() => {
     navigate("/dashboard");
-  }, []);
+  }, [navigate]);
   return <></>;
 };
 export default HomeScreen;

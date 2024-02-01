@@ -14,7 +14,7 @@ import PiechartSelected from "../../asserts/PiechartSelected";
 
 const NavBar = () => {
   const navigate = useNavigate();
-  const [path, setPath] = useState("/dashboard");
+  // const [ setPath] = useState("/dashboard");
 
   const handleClick = (path: string) => {
     if (path === "") {
@@ -22,7 +22,7 @@ const NavBar = () => {
     }
     if (path) {
       navigate(path);
-      setPath(path);
+      // setPath(path);
     }
   };
 
