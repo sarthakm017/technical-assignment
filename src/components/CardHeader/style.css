@@ -1,0 +1,9 @@
+.button-container {
+  display: flex;
+  border-radius: 8px;
+  border: 1px solid #393c49;
+  background: #1f1d2b;
+  padding: 14px;
+  gap: 10px;
+  align-items: center;
+}

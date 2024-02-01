@@ -1,0 +1,10 @@
+.view-all-button {
+  border-radius: 8px;
+  border: 1px solid #ea7c69;
+  display: flex;
+  padding: 14px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 32px;
+}

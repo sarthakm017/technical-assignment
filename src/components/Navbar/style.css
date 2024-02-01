@@ -1,0 +1,11 @@
+.navbar-container {
+  border-radius: 16px 16px 0px 0px;
+  background: #1f1d2b;
+  width: 104px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  padding-top: 24px;
+  cursor: pointer;
+}
